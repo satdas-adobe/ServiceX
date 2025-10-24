@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121603-e1482256.adobeaemcloud.com/bin/franklin.delivery/satdas-adobe/ServiceX/main"
+    url: "https://author-p121603-e1482256.adobeaemcloud.com/bin/franklin.delivery/satdas-adobe/service-x/main"
     type: "markup"
     suffix: ".html"
