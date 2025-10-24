@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/service-x-site/:/",
-    "/content/service-x-site/configuration:/.helix/config.json",
-    "/content/service-x-site/metadata:/metadata.json"
+    "/content/service-x-poc-site/:/",
+    "/content/service-x-poc-site/configuration:/.helix/config.json",
+    "/content/service-x-poc-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/service-x-site/"
+    "/content/service-x-poc-site/"
   ]
 }
