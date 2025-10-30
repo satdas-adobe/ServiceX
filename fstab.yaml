@@ -7,7 +7,7 @@ public:
   paths:
     mappings:
       - "/content/service-x-poc-site/:/"
-      - "/content/dam/service-x-poc-site/press/:/press/"
+      - "/content/dam/service-x-poc-site/about-us"
 content:
   source:
     url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/satdas-adobe/service-x-poc-site/main"
