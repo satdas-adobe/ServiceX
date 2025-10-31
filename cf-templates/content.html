@@ -5,12 +5,13 @@
     <title>{{properties.elements.title.value}}</title>
   </head>
   <body>
-    <article>
-      <h1>{{properties.elements.title.value}}</h1>
-      {{{properties.elements.description.value}}}
-      {{#properties.elements.image}}
-        <img src="{{{value}}}" alt="{{properties.elements.title.value}}" />
-      {{/properties.elements.image}}
-    </article>
+    <header></header>
+    <main>
+      <div>
+        <h1>{{properties.elements.title.value}}</h1>
+        {{{properties.elements.description.value}}}
+      </div>
+    </main>
+    <footer></footer>
   </body>
 </html>
