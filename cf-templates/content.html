@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{properties.elements.title.value}}</title>
+  </head>
+  <body>
+    <article>
+      <h1>{{properties.elements.title.value}}</h1>
+      {{{properties.elements.description.value}}}
+      {{#properties.elements.image}}
+        <img src="{{{value}}}" alt="{{properties.elements.title.value}}" />
+      {{/properties.elements.image}}
+    </article>
+  </body>
+</html>
