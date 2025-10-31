@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/content/",
+    "endpoint": "https://author-p99952-e1559416.adobeaemcloud.com/api/assets/service-x-poc-site/{{id}}.json",
+    "regex": "/([^/]+)\\.html$",
+    "template": "/cf-templates/content.html",
+    "relativeURLPrefix": "https://publish-p99952-e1559416.adobeaemcloud.com",
+    "headers": {
+      "Accept": "application/json"
+    }
+  }
+]
