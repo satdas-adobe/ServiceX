@@ -4,5 +4,5 @@ mountpoints:
     type: "markup"
     suffix: ".html"
   /overlay:
-    url: "https://json2html.adobeaem.workers.dev/satdas-adobe/service-x-poc-site/main"
+    url: "https://json2html.adobeaem.workers.dev/satdas-adobe/service-x/main"
     type: "markup"
