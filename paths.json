@@ -6,7 +6,7 @@
     "/content/dam/service-x-poc-site/:/"
   ],
   "includes": [
-    "/content/dam/service-x-poc-site/",
-    "/content/service-x-poc-site/"
+    "/content/service-x-poc-site/",
+    "/content/dam/service-x-poc-site/"
   ]
 }
