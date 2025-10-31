@@ -3,16 +3,6 @@ mountpoints:
     url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/satdas-adobe/service-x/main"
     type: "markup"
     suffix: ".html"
-public:
-  paths:
-    mappings:
-      - "/content/service-x-poc-site/:/"
-      - "/content/dam/service-x-poc-site/about-us"
-content:
-  source:
-    url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/satdas-adobe/service-x-poc-site/main"
-    type: "markup"
-    suffix: ".html"
-  overlay:
+  /overlay:
     url: "https://json2html.adobeaem.workers.dev/satdas-adobe/service-x-poc-site/main"
     type: "markup"
