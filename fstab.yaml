@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/satdas-adobe/service-x/main"
-    type: "markup"
-    suffix: ".html"
