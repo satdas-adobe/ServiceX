@@ -3,7 +3,7 @@
     "/content/service-x-poc-site/:/",
     "/content/service-x-poc-site/configuration:/.helix/config.json",
     "/content/service-x-poc-site/metadata:/metadata.json",
-    "/content/dam/service-x-poc-site/:/"
+    "/content/dam/service-x-poc-site/about-us:/about-us/"
   ],
   "includes": [
     "/content/service-x-poc-site/",
