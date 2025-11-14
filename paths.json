@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/service-x-poc-site/test/:/"
+    "/content/service-x-poc-site/:/"
   ],
   "includes": [
     "/content/service-x-poc-site/"
